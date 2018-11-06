@@ -4,7 +4,7 @@ import Layout from "../layouts/index";
 
 class Index extends React.Component {
   render() {
-    // _.map([1, 2, 3], console.log);
+    _.map([1, 2, 3], console.log);
     return (
       <Layout>
         <h1 className="tu">Hi sassy friends</h1>
